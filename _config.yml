@@ -2,7 +2,7 @@
 title:          My first blog
 bio:            'Just a simple Jekyll theme'
 description:    "This is my first blog."
-picture:        'assets/img/profile.png'
+picture:        'assets/img/1.jpg'
 locale:         en_US
 url:            https://catherine-wsy.github.io/
 
