@@ -20,6 +20,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: compressed
+  
 // Colors
 $blue: #3498db;
 $orange: #e67e22;
